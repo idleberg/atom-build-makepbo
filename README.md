@@ -1,10 +1,10 @@
+# build-makepbo
+
 [![apm](https://img.shields.io/apm/l/build-makepbo.svg?style=flat-square)](https://atom.io/packages/build-makepbo)
 [![apm](https://img.shields.io/apm/v/build-makepbo.svg?style=flat-square)](https://atom.io/packages/build-makepbo)
 [![apm](https://img.shields.io/apm/dm/build-makepbo.svg?style=flat-square)](https://atom.io/packages/build-makepbo)
 [![Travis](https://img.shields.io/travis/idleberg/atom-build-makepbo.svg?style=flat-square)](https://travis-ci.org/idleberg/atom-build-makepbo)
 [![David](https://img.shields.io/david/dev/idleberg/atom-build-makepbo.svg?style=flat-square)](https://david-dm.org/idleberg/atom-build-makepbo#info=dependencies)
-
-# build-makepbo
 
 [Atom Build](https://atombuild.github.io/) provider for [MakePbo](https://dev.withsix.com/projects/mikero-pbodll/wiki/MakePbo), compiles pbo
 
