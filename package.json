@@ -7,7 +7,7 @@
   "keywords": [
     "build",
     "compile",
-    "makepbo"
+    "makepbo",
     "pbo"
   ],
   "main": "lib/provider.js",
